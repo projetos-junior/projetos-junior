@@ -20,9 +20,9 @@
 
 ##
 
-<div align="center">  
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetos-junior&layout=compact&hide_border=true&theme=dracula&size_weight=0.5" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=projetos-junior&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&theme=dracula" alt="Edson Junior github stats"/> 
-  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetos-junior&layout=compact&hide_border=true&theme=dracula&size_weight=0.5" />
 </div>
 
   <div align="center">
