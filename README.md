@@ -9,7 +9,7 @@
 - 🌱 Estou aprendendo Python
 
 ##
-<div align="center"><br>
+<div align="center">
   <img align="center" alt="HTML" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,7 +22,6 @@
 
 [![Edson Junior github stats](https://github-readme-stats.vercel.app/api?username=projetos-junior\&include_all_commits=true\&rank_icon=github\&show_icons=true\&theme=dracula\&count_private=true)](https://github.com/projetos-junior)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projetos-junior&theme=dracula\&layout=compact\&size_weight=0.5\&count_weight=0.5)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 
 
